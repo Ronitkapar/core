@@ -1,0 +1,16 @@
+id,sentence,label
+1,I love machine learning,positive
+2,Natural language processing is fun,positive
+3,Deep learning models are powerful,positive
+4,I enjoy solving math problems,positive
+5,Physics explains the universe,neutral
+6,Artificial intelligence is the future,positive
+7,I hate slow internet,negative
+8,This movie is amazing,positive
+9,The food was terrible,negative
+10,I feel happy today,positive
+11,He is very sad,negative
+12,She likes reading books,positive
+13,We are learning new skills,neutral
+14,Coding improves logical thinking,positive
+15,Practice makes perfect,neutral
